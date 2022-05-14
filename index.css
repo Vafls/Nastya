@@ -1,0 +1,9 @@
+body {
+    display: block;
+    background-image: url(https://browsecat.net/sites/default/files/white-heart-background-48575-816616-6479288.png);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.text {
+    color: violet;
+}
